@@ -5,7 +5,6 @@
   padding-top: 20%;
   padding-bottom: 20%;
   color: #fff;
-
 }
 
 .lingkaran {
@@ -25,5 +24,19 @@
 
 .crop-img {
   object-fit: cover;
+}
 
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
 }
